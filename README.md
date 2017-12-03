@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Estudo inicial
 
-You can use the [editor on GitHub](https://github.com/ricfwolff/learning-machine-learning-pt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Comecei o estudo lendo o material disponível [nesse site](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment), inclusive, assistindo os vídeos introdutórios que esse tutorial cita.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
